@@ -3,3 +3,13 @@ sweta | In-State | Health Plan : f | 456899
 rohit | Out-Of-State
 Total Tuition Paid for all In-State Students : 457099
 Total Tuition Paid for all Out-of-State Students : 0
+suman | Out-Of-State | Health Plan : c | 67889
+rohit | Out-Of-State
+Total Tuition Paid for all In-State Students : 457099
+Total Tuition Paid for all Out-of-State Students : 68009
+muskan | In-State | Health Plan : s | 56789
+mohit | In-State
+preeti | Out-Of-State | Health Plan : f | 897789
+piyu | Out-Of-State | Health Plan : f | 98780
+Total Tuition Paid for all In-State Students : 514048
+Total Tuition Paid for all Out-of-State Students : 1064978
