@@ -59,3 +59,19 @@ The report includes student details and the total tuition paid for each category
 - It appends records to the file, so you can use the program multiple times to add more students.
 - The program provides clear prompts and error messages.
 - Please note that the "gets" function is generally unsafe for user input, and it is recommended to use "getline" instead to read user input safely.
+
+
+
+## Contribution Guidelines
+
+We welcome contributions from the community to make our project better. If you'd like to contribute, please follow these guidelines:
+
+1. Fork the repository to your GitHub account.
+2. Create a new branch for your feature or bugfix.
+3. Make your changes and submit a pull request to the main repository.
+4. Be sure to follow our code of conduct.
+
+## License
+
+This software is distributed under the MIT License. Please see the [LICENSE](LICENSE) file for more details.
+Thank you for your support!
